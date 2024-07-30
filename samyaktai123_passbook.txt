@@ -1,0 +1,24 @@
+
++-----------------------------------------------+
+|                   PASSBOOK                    |
++-----------------------------------------------+
+| Username       : samyaktai123                 |
+|-----------------------------------------------|
+| First Name     : Samyak                       |
+| Father's Name  : Kamlakar                     |
+| Last Name      : Bhalerao                     |
+| Email ID       : samyakbhalerao17@gmasam@123  |
+| Contact Number : 8421252194                   |
+| Date of Birth  : 18-12-2005                   |
+|-----------------------------------------------|
+| Initial Balance        : 1500                 |
+| Account Type   : Saving Account               |
++-----------------------------------------------+
+
++--------------------- TRANSACTION HISTORY ---------------------+
+
+Date:Time           | Amount (Rs)     | Transaction Type |
+--------------------| --------------- | ---------------  |
+07-06-2024 10:42:04 | 1500            | deposite       
+
+07-06-2024 10:44:10 | 102000          | deposite         | Current Balance : 103500     
