@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <time.h>
+#include<time.h>
 
-struct tranction_history // To store Tranction History
+struct tranction_history // To store Tranction Histor
 {
     int year;
     int month;
